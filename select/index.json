@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "穴の空いた生活",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-07T06:53:06.526283Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "穴の空いた生活",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/01_穴の空いた生活_キタニタツヤ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "穴の空いた生活",
+      "artist": "Tatsuya Kitani",
+      "has_synced": false,
+      "path": "select/02_穴の空いた生活_Tatsuya_Kitani.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "穴の空いた生活",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_穴の空いた生活_キタニタツヤ.txt"
+    }
+  ]
+}
